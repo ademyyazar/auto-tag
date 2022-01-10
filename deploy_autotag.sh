@@ -743,7 +743,7 @@ EOF
 fi
 
 MIN_BASH_VERSION='4'
-REPO_NAME='GorillaStack/auto-tag'
+REPO_NAME='ademyyazar/auto-tag'
 MAIN_STACK_NAME='AutoTag'
 COLLECTOR_STACK_NAME="${MAIN_STACK_NAME}-Collector"
 
